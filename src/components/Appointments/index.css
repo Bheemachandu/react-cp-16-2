@@ -1,0 +1,88 @@
+.container1 {
+  background-image: linear-gradient(to bottom, #fbc7d4, #9796f0);
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container11 {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  width: 800px;
+}
+
+.container2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.label {
+  color: #b5b7c4;
+  font-size: 13px;
+}
+
+.input {
+  margin-bottom: 10px;
+}
+
+.heading1 {
+  color: #171f46;
+}
+
+.button1 {
+  background-color: #8b5cf6;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.image1 {
+  width: 300px;
+  height: 200px;
+}
+
+.imageContainer {
+  align-self: flex-end;
+  margin-left: 60px;
+}
+
+.container4 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button2 {
+  background-color: transparent;
+  border-color: #8b5cf6;
+  border-width: 1px;
+  border-radius: 5px;
+  align-self: center;
+  color: #8b5cf6;
+}
+
+.heading2 {
+  color: #171f46;
+  font-size: 16px;
+  align-self: center;
+}
+
+.container5 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container6 {
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.listContainer {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}

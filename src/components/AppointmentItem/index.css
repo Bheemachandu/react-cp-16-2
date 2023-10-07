@@ -1,0 +1,36 @@
+.container111 {
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 250px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #b5b7c4;
+  margin: 10px;
+}
+
+.container222 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image111 {
+  width: 20px;
+  height: 20px;
+  align-self: center;
+}
+
+.heading111 {
+  font-size: 16px;
+  align-self: center;
+}
+
+.para111 {
+  font-size: 13px;
+  color: #b5b7c4;
+}
+
+.button222 {
+  background-color: transparent;
+  border-style: none;
+}
